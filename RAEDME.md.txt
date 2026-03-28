@@ -1,0 +1,28 @@
+# Vesuvio
+
+A simple  restaurant menu website built with HTML and CSS.  
+This project demonstrates basic web development skills and clean layout design.
+
+---
+
+## Features
+
+- Starters, Main Courses, and Desserts sections  
+- Small images for each section    
+- layout suitable for desktop and mobile  
+- Footer with contact info and placeholder link  
+
+---
+
+## Skills Demonstrated
+
+- Basic HTML structure using `header`, `main`, `section`, `article`, `footer`  
+- Basic CSS styling (colors, margins, padding, hover effects)  
+- Centering images and aligning text   
+
+
+---
+
+## Author
+
+dimfcl – GitHub Profile (https://github.com/dimfcl)
